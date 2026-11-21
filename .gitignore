@@ -1,0 +1,19 @@
+# Power BI temporary / cache files
+*.pbix.tmp
+.pbi/
+*.pbi.cache
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+
+# Python (in case notebooks or scripts are added later)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
