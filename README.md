@@ -2,7 +2,8 @@
 
 A single-page Power BI executive dashboard that analyses product returns, return losses and supplier delays for a retail business selling Clothing, Shoes and Handbags.
 
-![Dashboard overview](Screenshots/Dashboard_Overview.jpg) 
+![Dashboard overview](Screenshots/Dashboard_Overview.png) 
+
 
 ## Project Overview
 VELT sells through two suppliers (China and Italy) to Regular and VIP customers in Asia, Europe and the USA. This project turns a 2,000-order dataset into one dashboard that shows how large the return problem is, why customers return products and which orders and categories cost the most.
